@@ -9,5 +9,5 @@ containing a symmetric multi-component lipid bilayer membrane in a box of water.
 
 This tutorial assumes you are using a GROMACS version in the 2018.x series.
 
-Please note​ that the purpose of this tutorial is instructional and is not an endorsement
+**Please note** that the purpose of this tutorial is instructional and is not an endorsement
 or suggestion that you use these specific parameters/procedure for your simulation.
