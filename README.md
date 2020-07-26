@@ -1,6 +1,7 @@
 # MEMBRANE BIOPHYSICS TUTORIAL
 ## AA-Artificial-Lipid-Bilayer-Tutorial
 Aniruddha Seal, Sahithya S Iyer and Anand Srivastava
+
 *MBU, Indian Institute of Science*
 
 This tutorial will guide a new user through the process of setting up a simulation system
