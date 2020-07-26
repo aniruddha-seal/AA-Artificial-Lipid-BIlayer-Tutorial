@@ -2,8 +2,6 @@
 ## AA-Artificial-Lipid-Bilayer-Tutorial
 Aniruddha Seal, Sahithya S Iyer and Anand Srivastava
 
-*Molecular Biophysics Unit, Indian Institute of Science*
-
 This tutorial will guide a new user through the process of setting up a simulation system
 containing a symmetric multi-component lipid bilayer membrane in a box of water.
 
