@@ -1,5 +1,4 @@
-# Contents
-
+Contents
 - Minimization mdp
 
 - NPT Equilibration mdp
