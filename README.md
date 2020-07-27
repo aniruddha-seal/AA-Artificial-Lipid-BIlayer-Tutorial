@@ -10,5 +10,5 @@ This tutorial assumes you are using a GROMACS version in the 2018.x series.
 **Please note** that the purpose of this tutorial is instructional and is not an endorsement
 or suggestion that you use these specific parameters/procedure for your simulation.
 
-### Contact
-Aniruddha Seal [aniruddha.seal@niser.ac.in](mailto:aniruddha.seal@niser.ac.in)
+## Contact
+- Aniruddha Seal [aniruddha.seal@niser.ac.in](mailto:aniruddha.seal@niser.ac.in)
