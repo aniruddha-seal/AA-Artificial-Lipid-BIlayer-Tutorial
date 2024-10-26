@@ -5,7 +5,7 @@ This tutorial guides new users through setting up a simulation system that inclu
 ## Requirements
 
 The following software packages are recommended for this tutorial:
-- **GROMACS**: For setting up and running molecular dynamics simulations.
+- **GROMACS**
 - **Python**
 - **NumPy**
 - **MDAnalysis**
