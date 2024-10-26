@@ -6,9 +6,9 @@ This tutorial guides new users through setting up a simulation system that inclu
 
 The following software packages are recommended for this tutorial:
 - **GROMACS**: For setting up and running molecular dynamics simulations.
-- **Python**: To enable script-based processing and analysis.
-- **NumPy**: For numerical operations in Python.
-- **MDAnalysis**: For analyzing molecular dynamics trajectories.
+- **Python**
+- **NumPy**
+- **MDAnalysis**
 
 Please refer to `manual.pdf` for detailed setup instructions and guidance.
 
